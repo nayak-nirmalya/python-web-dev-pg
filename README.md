@@ -11,3 +11,9 @@ De-Activate VirtualEnv:
 
 To Run FLASK_APP:
 `flask --app .\flask-pg.py run`
+
+Run DJango Server:
+`python .\playground\manage.py runserver`
+
+Create MyApp:
+`django-admin.exe startapp myapp`
